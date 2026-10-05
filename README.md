@@ -9,3 +9,4 @@
 儲存檔案。這是本週第一次要被 Git 追蹤的修改。
 
 - 我已完成第一次 commit。
+![alt text](image.png)
